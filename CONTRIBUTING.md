@@ -1,45 +1,41 @@
-# Code of Conduct
+# Contributing to [Your Project Name]
 
-## Our Pledge
+Thank you for considering contributing to [Your Project Name]! We welcome your input.
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+## How to Contribute
 
-## Our Standards
+There are several ways you can contribute to this project:
 
-Examples of behavior that contributes to creating a positive environment include:
+1. **Reporting Issues:**
+   - If you find a bug or have a feature request, please [open a new issue](../../issues) on GitHub.
 
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Showing empathy towards other community members
+2. **Contributing Code:**
+   - Fork the repository.
+   - Create a new branch for your changes: `git checkout -b feature/your-feature` or `bugfix/your-bugfix`.
+   - Make your changes and commit them: `git commit -m 'Description of your changes'`.
+   - Push to the branch: `git push origin feature/your-feature`.
+   - Submit a pull request with a clear description of your changes.
 
-Examples of unacceptable behavior by participants include:
+3. **Reviewing Pull Requests:**
+   - Help review open pull requests. Provide constructive feedback and suggestions.
 
-- The use of sexualized language or imagery and unwelcome sexual attention or advances
-- Trolling, insulting/derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information, such as a physical or email address, without their explicit permission
-- Other conduct which could reasonably be considered inappropriate in a professional setting
+4. **Documentation:**
+   - Improve the project's documentation or create new documentation.
 
-## Our Responsibilities
+## Code of Conduct
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+## Style Guide
 
-## Scope
+Before contributing, please familiarize yourself with our [style guide](STYLE_GUIDE.md) to maintain consistency.
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+## Getting Started
 
-## Enforcement
+If you are new to the project, check out our [Getting Started Guide](GETTING_STARTED.md) for setup instructions and an overview of the project.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [project-email]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+## Contact
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+If you have questions or need further assistance, feel free to reach out to us at [project-email].
 
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html), version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
-
-For answers to common questions about this code of conduct, see https://www.contributor-covenant.org/faq
+Thank you for contributing to [Your Project Name]!
